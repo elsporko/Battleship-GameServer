@@ -1,0 +1,3 @@
+[submodule "Battleship-AWS"]
+	path = Battleship-AWS
+	url = git@github.com:elsporko/Battleship-AWS.git
