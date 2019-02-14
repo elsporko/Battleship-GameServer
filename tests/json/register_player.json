@@ -1,0 +1,5 @@
+{
+    "action": "register",
+    "handle": "Geronimo",
+    "arn": "arn:aws:sns:us-east-2:849664249614:FakeMcFakerson"
+}
